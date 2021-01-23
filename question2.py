@@ -4,7 +4,7 @@ Dict1: (this is a key, value pair of user id and username)
    “1” : “name1”,
    “2” : “name2”,
    “3” : “name3”
-} etc.. '''
+}  '''
 
 num_of_users=int(input("enter no. of users"))
 dict1,dict2,count={},{},1
