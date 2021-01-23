@@ -1,5 +1,6 @@
 m=int(input("enter no. of users"))
 x,y,a={},{},1
+# loop begins
 for i in range(0,m):
     b=input("enter user name")
     c=int(input("enter exam score"))
