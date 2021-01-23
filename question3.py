@@ -2,7 +2,7 @@
 [0,0,0,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,1,1]
 Basically a list of zero’s and one’s.
 Write a python function to the number of maximum consecutive  one’s present in the array. 
-E.g output for the above array would be 4
+output for the above array would be 4
 '''
 
 
