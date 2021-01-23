@@ -1,3 +1,4 @@
+# function created
 def add(a):
     b,c=0,len(a)
     for i in range (0,c):
