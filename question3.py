@@ -1,3 +1,4 @@
+# we can change the value of a according to need
 a=[0,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0]
 x=0
 m=0
